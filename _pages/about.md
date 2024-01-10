@@ -19,5 +19,5 @@ real-world applications including Uncrewed Aerial System (UAS) mission planning,
 space situational awareness. I also spent a few years in the US Army Airborne Infantry adventuring throughout the
 world and jumping out of perfectly good aircraft. 
 
-I received his B.S. in Computer Science from the University of Massachusetts at Amherst (2014), and my M.S. in Computer
+I received my B.S. in Computer Science from the University of Massachusetts at Amherst (2014), and my M.S. in Computer
 Science from the University of Massachusetts at Lowell (2018).
