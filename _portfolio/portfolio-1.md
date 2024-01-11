@@ -1,5 +1,5 @@
 ---
-title: "Outcome Assessment User Study"
+title: "Evaluating the impacts of <i>a priori</i> robot competency assessments on human decision-making"
 excerpt: "A project to investigate how communication of a robot's <i>a priori</i> competency estimate impacts human decision-making."
 collection: portfolio
 ---
