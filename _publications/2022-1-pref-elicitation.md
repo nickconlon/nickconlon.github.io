@@ -2,7 +2,7 @@
 title: "User Preference Elicitation for Unmanned Aircraft System Collaborative Search"
 collection: publications
 permalink: /publication/2022-1-pref-elicitation
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
+excerpt: ''
 date: 2021-10-29
 venue: 'AIAA SciTech Forum'
 paperurl: 'https://arc.aiaa.org/doi/10.2514/6.2022-2343'
@@ -12,4 +12,4 @@ Employing unmanned aircraft systems (UAS) in search tasks requires either direct
 
 <!--[Download paper here](http://academicpages.github.io/files/paper3.pdf) -->
 
-Recommended citation: H. M. Ray, N. Conlon, Z. Sunberg, and N. Ahmed. "User Preference Elicitation for Unmanned Aircraft System Collaborative Search." AIAA 2022-2343. AIAA SCITECH Forum. January 2022
+H. M. Ray, N. Conlon, Z. Sunberg, and N. Ahmed. "User Preference Elicitation for Unmanned Aircraft System Collaborative Search." AIAA 2022-2343. AIAA SCITECH Forum. January 2022
