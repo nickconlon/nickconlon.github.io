@@ -18,9 +18,17 @@ Education
 Work experience
 ======
 * Research Assistant, University of Colorado Boulder (Aug 2020 - present)
+
+
 * Associate Member of Technical Staff, MIT Lincoln Laboratory (Jan 2019 - Aug 2020)
+
+
 * Senior Software Engineer, BAE Systems (Jun 2014 - Dec 2018)
+  
+
 * Infantry Soldier, RI National Guard 1/143 Airborne Infantry Regiment (Jun 2008 - May 2011)
+
+
 * Infantry Soldier, US Army 173rd Airborne Brigade (Sep 2002 - Mar 2006)
 
 <!-- 
