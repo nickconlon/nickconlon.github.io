@@ -1,16 +1,18 @@
 ---
 title: "Outcome Assessment User Study Evaluation"
-excerpt: "A project to understand how knowledge of a robot's competency impacts human decision-making.<br/><img src='/images/outcome_assmt_game.gif'>"
+excerpt: "A project to understand how knowledge of a robot's competency impacts human decision-making."
 collection: portfolio
 ---
 
-This project is for a human subject study to evaluate the Outcome Assessment algorithm. We investigated how knowledge of robot competency impacts human decision-making when there is uncertainty about the state of the world and the robot's capabilities.
+This was an (N=155) human subject study where we evaluated how communication of an agent's competency information impacted users
+decision-making when there was uncertainty about the state of the world and the robot's capabilities. We formulated this
+as a grid-world game where participants had to supervise the robot and either (1) allow the robot to autonomously 
+navigate to a goal, or (2) manually drive the agent to the goal using a simple up/down/left/right interface. We leveraged
+the Outcome Assessment from Factorized Machine Self-Confidence as our robot assessment framework. We found
+that competency communication let to improved task performance, more informed choices of autonomy level, and participant
+trust calibrated with the agent's capabilities.
 
-The Outcome Assessment metric from Factorized Machine Self-Confidence enables an autonomous robot to understand its task competency. This project extends the following:
-
-[Machine Self-confidence in Autonomous Systems via Meta-analysis of Decision Processes](https://link.springer.com/chapter/10.1007/978-3-030-20454-9_21)
-
-[Algorithmic Assurances and Self-Assessment of Competency Boundaries in Autonomous Systems](https://www.proquest.com/openview/98e816c88e706dd10df214afe28466e6/1?pq-origsite=gscholar&cbl=18750&diss=y)
+<br/><img src='/images/outcome_assmt_game.gif'>
 
 We published these papers:
 
