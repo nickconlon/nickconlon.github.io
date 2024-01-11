@@ -1,6 +1,6 @@
 ---
 title: "Outcome Assessment User Study Evaluation"
-excerpt: "A project to understand how knowledge of a robot's competency impacts human decision-making.<br/><img src='/images/500x300.png'>"
+excerpt: "A project to understand how knowledge of a robot's competency impacts human decision-making.<br/><img src='/images/outcome_assmt_game.gif'>"
 collection: portfolio
 ---
 
