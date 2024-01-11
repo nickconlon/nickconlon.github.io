@@ -1,17 +1,19 @@
 ---
 title: "Event-Triggered Generalized Outcome Assessment (ET-GOA) Evaluation"
-excerpt: "A project to evaluate the ET-GOA algorithm which enables a robot to understand when and how its competency changes."
+excerpt: "A project to evaluate a metric and algorithm which enables a robot to quantify when and how its competency changes <i>in situ</i>."
 collection: portfolio
 ---
 
-This project investigated how an autonomous robot could capture and understand both <i>when</i> and <i>how</i> its
+This project investigated how an autonomous robot could capture and quantify both <i>when</i> and <i>how</i> its
 competency may change during a mission. As an extension to Factorized Machine Self-Confidence, we developed a Model
 Quality Assessment which assesses how close an agent's model predictions are from real observations. We then developed
 the Event-Triggered Generalized Outcome Assessment (ET-GOA) algorithm which uses the Model Quality assessment to selectively
-trigger a Generalized Outcome Assessment in real-time. We validated the Model Quality Assessment and ET-GOA algorithm
+trigger a Generalized Outcome Assessment <i>in situ</i>. We validated the Model Quality Assessment and ET-GOA algorithm
 in both simulation and with a live unmanned ground vehicle. We believe that real-time updating and communication of
 competency can calibrate human users to changing robot capabilities, so they can make more informed and safer decisions
 with respect to their robotic counterparts.
+
+TODO cool video soon
 
 <!--br/><img src='/images/500x300.png'-->
 

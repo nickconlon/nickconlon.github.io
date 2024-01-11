@@ -1,18 +1,18 @@
 ---
-title: "Outcome Assessment User Study Evaluation"
-excerpt: "A project to understand how knowledge of a robot's competency impacts human decision-making."
+title: "Outcome Assessment User Study"
+excerpt: "A project to investigate how communication of a robot's <i>a priori</i> competency estimate impacts human decision-making."
 collection: portfolio
 ---
 
-This was an (N=155) human subject study where we evaluated how communication of an agent's competency information impacted users
-decision-making when there was uncertainty about the state of the world and the robot's capabilities. We formulated this
-as a grid-world game where participants had to supervise the robot and either (1) allow the robot to autonomously 
-navigate to a goal, or (2) manually drive the agent to the goal using a simple up/down/left/right interface. We leveraged
-the Outcome Assessment from Factorized Machine Self-Confidence as our robot assessment framework. We found
-that competency communication let to improved task performance, more informed choices of autonomy level, and participant
-trust calibrated with the agent's capabilities.
+This was an (N=155) human subject study where we evaluated how communication of an agent's <i>a priori</i> competency 
+assessment impacted users decision-making when there was uncertainty about the state of the world and the robot's
+capabilities. We formulated this as a grid-world game where participants had to supervise the robot and either (1) allow
+the robot to autonomously navigate to a goal, or (2) manually drive the agent to the goal using a simple up/down/left/right
+interface. We leveraged the Outcome Assessment from Factorized Machine Self-Confidence as our robot assessment framework.
+We found that communication of the robot's competency let to improved task performance, more informed choices of
+autonomy level, and participant trust calibrated with the agent's capabilities.
 
-<br/><img src='/images/outcome_assmt_game.gif'>
+<br/><img style="border:1px solid black;" src='/images/outcome_assmt_game.gif'>
 
 We published these papers:
 
