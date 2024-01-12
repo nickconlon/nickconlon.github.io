@@ -1,6 +1,6 @@
 ---
 title: "Quantifying and communicating <i>in situ</i> changes to robot competency"
-excerpt: "A project to evaluate a metric and algorithm which enables a robot to quantify when and how its competency changes <i>in situ</i>."
+excerpt: "A project to evaluate a metric and algorithm which enables a robot to quantify <i>when</i> and <i>how</i> its competency changes <i>in situ</i>."
 collection: portfolio
 ---
 

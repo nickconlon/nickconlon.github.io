@@ -1,5 +1,5 @@
 ---
-title: "Evaluating a Competency-Aware Robotic System"
+title: "Evaluating a Competency-Aware Robot System for an Autonomous Exploration Mission"
 excerpt: "A project to investigate how human users employ robots capable of quantifying, communicating, and updating estimates of their competency."
 collection: portfolio
 ---
