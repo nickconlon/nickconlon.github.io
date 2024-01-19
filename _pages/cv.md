@@ -12,8 +12,12 @@ redirect_from:
 Education
 ======
 * Ph.D. Computer Science, University of Colorado Boulder, 2024 (expected)
+
+
 * M.S. Computer Science, University of Massachusetts Lowell, 2018
-* B.S Computer Science, University of Massachusetts Amherst, 2014
+
+
+* B.S Computer Science, Minor in Mathematics, University of Massachusetts Amherst, 2014
 
 Work experience
 ======
@@ -23,7 +27,7 @@ Work experience
 * Associate Member of Technical Staff, MIT Lincoln Laboratory (Jan 2019 - Aug 2020)
 
 
-* Senior Software Engineer, BAE Systems (Jun 2014 - Dec 2018)
+* Senior Software Engineer, BAE Systems FAST Labs (Jun 2014 - Dec 2018)
   
 
 * Infantry Soldier, RI National Guard 1/143 Airborne Infantry Regiment (Jun 2008 - May 2011)
