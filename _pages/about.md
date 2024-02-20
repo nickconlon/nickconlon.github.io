@@ -21,7 +21,7 @@ how we can leverage knowledge of a robot's existing models, planners, and contro
 their competencies, and (2) how communication of competency assessments can influence decision-making within a
 human-robot/machine team.
 
-<b>Decision support and mission planning:</b> We are developing experimental mission planning tools in order to
+<b>Mission planning and decision support:</b> We are developing experimental mission planning tools in order to
 evaluate competency-aware ground robots in the field. We are also working with the United States Space Force to develop
 decision aids for remote sensing and data exploitation missions. The primary goal is to explore how autonomy
 can augment human operators, provide them with the information they need to make informed decisions, and improve task or
