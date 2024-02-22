@@ -23,9 +23,9 @@ human-robot/machine team.
 
 <b>Mission planning and decision support:</b> We are developing experimental mission planning tools in order to
 evaluate competency-aware ground robots in the field. We are also working with the United States Space Force to develop
-decision aids for remote sensing and data exploitation missions. The primary goal is to explore how autonomy
-can augment human operators, provide them with the information they need to make informed decisions, and improve task or
-mission performance.
+decision aids and related algorithms for remote sensing and data exploitation missions. The primary goal is to explore
+how autonomy can augment human operators, provide them with the information they need to make informed decisions, and
+improve task or mission performance.
 
 Prior to pursuing PhD, I spent several years in aerospace R&D where I worked on algorithms and software for
 real-world applications including Uncrewed Aerial System (UAS) mission planning, battlespace decision-support, and
