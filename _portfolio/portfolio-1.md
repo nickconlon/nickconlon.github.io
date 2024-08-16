@@ -4,7 +4,7 @@ excerpt: "A project to investigate how communication of a robot's <i>a priori</i
 collection: portfolio
 ---
 
-This was an (N=155) human subject study where we evaluated how communication of an agent's <i>a priori</i> competency 
+This was a (N=155) human subject study where we evaluated how communication of an agent's <i>a priori</i> competency 
 assessment impacted users decision-making when there was uncertainty about the state of the world and the robot's
 capabilities. We formulated this as a grid-world game where participants had to supervise the robot and either (1) allow
 the robot to autonomously navigate to a goal, or (2) manually drive the agent to the goal using a simple up/down/left/right

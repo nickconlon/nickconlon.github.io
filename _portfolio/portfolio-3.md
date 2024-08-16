@@ -1,13 +1,13 @@
 ---
-title: "Evaluating a Competency-Aware Robot System for an Autonomous Exploration Mission"
+title: "Evaluating a Competency-Aware Robot for an Autonomous Exploration Mission"
 excerpt: "A project to investigate how human users employ robots capable of quantifying, communicating, and updating estimates of their competency."
 collection: portfolio
 ---
 
-This is an in-progress project and soon to be human subject study evaluation of a competency aware robotic system. We
-are interested in how human users employ robots that are able to quantify and communicate their own competencies --
-both <i>a priori</i> estimates and <i>in situ</i> updates -- with respect to the tasks they are assigned and the
-environments they are operating in. More information will be posted after the project is complete.
+This was a (N=21) human subject where we evaluated how a human user could work with and utilize a live competency-aware 
+ground robot for area exploration. We were interested how a robot capable of predicting its competencies <i>a priori</i>,
+and updating that prediction <i>in situ</i>, can help participants balance attending to the robot with completing
+adjacent tasks. More information will be posted shortly.
 
 This project extends the following:
 
