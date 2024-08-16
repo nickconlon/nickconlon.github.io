@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D. Computer Science, University of Colorado Boulder, 2024 (expected)
+* Ph.D. Computer Science, University of Colorado Boulder, 2024
 
 
 * M.S. Computer Science, University of Massachusetts Lowell, 2018
@@ -21,7 +21,7 @@ Education
 
 Work experience
 ======
-* Research Assistant, University of Colorado Boulder (Aug 2020 - present)
+* Graduate Researcher, University of Colorado Boulder (Aug 2020 - Aug 2024)
 
 
 * Associate Member of Technical Staff, MIT Lincoln Laboratory (Jan 2019 - Aug 2020)

@@ -9,8 +9,8 @@
 locale                   : "en-US"
 title                    : "Nick Conlon"
 title_separator          : "-"
-name                     : &name "Nick Conlon"
-description              : &description "PhD Candidate and Graduate Researcher"
+name                     : &name "Nick Conlon, Ph.D."
+description              : &description "Robotics, autonomy, and human-machine teaming"
 url                      : https://nickconlon.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "nickconlon/nickconlon.github.io"
@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Nick Conlon"
   avatar           : "profile.png"
-  bio              : "PhD Candidate and Graduate Researcher"
+  bio              : "Robotics, autonomy, and human-machine teaming"
   location         : "Boulder, Colorado"
-  employer         : "University of Colorado Boulder"
+  employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=v2EqU8sAAAAJ"
   email            :
